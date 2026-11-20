@@ -1,0 +1,7 @@
+{
+  "tests": [
+    "test.do",
+    "inference_test.do"
+  ],
+  "cwd": "."
+}
